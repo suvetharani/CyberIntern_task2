@@ -41,7 +41,7 @@ Free online investigation tools were used during the analysis.
 - Domain `secure-login247.info` was recently registered and has **no relation to PayPal**.
 
 📸 Screenshot:  
-![WHOIS Analysis](screenshots/header_analysis.jpg)
+![WHOIS Analysis](screenshots/spoofed_email.jpg)
 
 ---
 
