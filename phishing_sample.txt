@@ -1,0 +1,16 @@
+Subject: Urgent Account Verification Required!
+
+From: PayPal Support <service@paypal-secure.com>
+
+Dear Customer,
+
+We detected unusual activity in your PayPal account and have temporarily limited your account access. To restore full access, please verify your identity immediately.
+
+Failure to do so will result in permanent suspension of your PayPal account.
+
+Click the link below to verify your information:
+https://paypal.com.secure-login247.info/login
+
+Thank you for your cooperation.
+
+PayPal Security Team
